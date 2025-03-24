@@ -16,10 +16,8 @@ description: |
 
 subtitle:
   certifications:
-    - name: "Data Science Certification"
-      link: "pdf/data-science.pdf"
-    - name: "Machine Learning Specialist"
-      link: "pdf/machine-learning.pdf"
+    - '<a href="pdf/data-science.pdf" target="_blank">Data Science Certification</a>'
+    - '<a href="pdf/machine-learning.pdf" target="_blank">Machine Learning Certification</a>'
 
   education:
     - "Bachelor of Technology in Computer Science - XYZ University"
