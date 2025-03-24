@@ -24,17 +24,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
 
-        <!-- Education -->
-      {% if site.subtitle.education %}
-      <h2>Education</h2>
-        <ul>
-          {% for edu in site.subtitle.education %}
-            <li>{{ edu }}</li>
-          {% endfor %}
-        </ul>
-      {% endif %}
-
-        
+               
   
 
         {% if site.github.is_user_page %}
@@ -53,6 +43,19 @@
          
         
         </ul>
+        <!-- Education -->
+      {% if site.subtitle.education %}
+      <h2>Education</h2>
+        <ul>
+          {% for edu in site.subtitle.education %}
+            <li>{{ edu }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+
+
+        
         {% endif %}
       </header>
       <section>
