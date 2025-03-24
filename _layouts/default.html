@@ -22,37 +22,7 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-         <!-- Certifications -->
-  {% if site.subtitle.certifications %}
-    <h2>Certifications</h2>
-    <ul>
-      {% for cert in site.subtitle.certifications %}
-        <li><a href="{{ cert.link }}" target="_blank" rel="noopener noreferrer">{{ cert.name }}</a></li>
-      {% endfor %}
-    </ul>
-  {% endif %}
-
-  <!-- Education -->
-  {% if site.subtitle.education %}
-    <h2>Education</h2>
-    <ul>
-      {% for edu in site.subtitle.education %}
-        <li>{{ edu }}</li>
-      {% endfor %}
-    </ul>
-  {% endif %}
-
-  <!-- Experience -->
-  {% if site.subtitle.experience %}
-    <h2>Experience</h2>
-    <ul>
-      {% for exp in site.subtitle.experience %}
-        <li>{{ exp }}</li>
-      {% endfor %}
-    </ul>
-  {% endif %}
-
-        <!--{% if site.github.is_project_page %}
+         <!--{% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %} -->
 
