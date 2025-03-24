@@ -16,16 +16,8 @@ description: |
 
 subtitle:
   certifications:
-    - '<a href="pdf/data-science.pdf" target="_blank">Data Science Certification</a>'
-    - '<a href="pdf/machine-learning.pdf" target="_blank">Machine Learning Certification</a>'
-
-  education:
-    - "Bachelor of Technology in Computer Science - XYZ University"
-    - "Master's in Data Science - ABC University"
-
-  experience:
-    - "Software Engineer at Company A (2020-2022)"
-    - "Data Scientist at Company B (2022-Present)"
+    <a href="pdf/data-science.pdf" target="_blank">Data Science Certification</a>
+    <a href="pdf/machine-learning.pdf" target="_blank">Machine Learning Certification</a>
 
 theme: jekyll-theme-minimal
 show_downloads: false
