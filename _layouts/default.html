@@ -49,35 +49,17 @@
 
       {{ content }}
 
-        <!-- Add Certifications -->
- <!-- <h2>Certifications</h2>
-  <ul>
-    {% for cert in site.subtitle.certifications %}
-      <li>{{ cert }}</li>
-    {% endfor %}
-  </ul>-->
-
-{% if site.subtitle.certifications %}
+        {% if site.subtitle.certifications %}
     <h2>Certifications</h2>
     <ul>
       {% for cert in site.subtitle.certifications %}
-        <li><a href="{{ cert | split: '(' | last | remove: ')' | strip }}">{{ cert | split: '(' | first }}</a></li>
+        <li><a href="{{ cert.link }}" target="_blank" rel="noopener noreferrer">{{ cert.name }}</a></li>
       {% endfor %}
     </ul>
   {% endif %}
 
-
-        
-  <!-- Add Education -->
- 
-<!-- <h2>Education</h2>
-  <ul>
-    {% for edu in site.subtitle.education %}
-      <li>{{ edu }}</li>
-    {% endfor %}
-  </ul>-->
-
-    {% if site.subtitle.education %}
+  <!-- Education -->
+  {% if site.subtitle.education %}
     <h2>Education</h2>
     <ul>
       {% for edu in site.subtitle.education %}
@@ -86,14 +68,8 @@
     </ul>
   {% endif %}
 
-  <!-- Add Experience -->
-  <!--<h2>Experience</h2>
-  <ul>
-    {% for exp in site.subtitle.experience %}
-      <li>{{ exp }}</li>
-    {% endfor %}
-  </ul>-->
- {% if site.subtitle.experience %}
+  <!-- Experience -->
+  {% if site.subtitle.experience %}
     <h2>Experience</h2>
     <ul>
       {% for exp in site.subtitle.experience %}
