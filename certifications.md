@@ -12,7 +12,7 @@ permalink: /certifications.html
     <img src="/assets/img/ds.jpg" width="100" alt="Data Science Certification">
     <h3>Data Science Certification</h3>
     <p><small>Issued by: IIIT-Bangalore</small></p>
-    <p><small>Certificate ID: DS12345</small></p>
+    <p><small>Certificate ID: DS9999</small></p>
     <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
   </div>
 
