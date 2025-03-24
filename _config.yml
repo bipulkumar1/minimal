@@ -15,18 +15,18 @@ description:
   <br>
 
   subtitle:
-  certifications:
-    <a href="pdf/data science.pdf">Data Science</a> 
-    <a href="pdf/data science.pdf">Data Science</a> 
-    <a href="pdf/data science.pdf">Data Science</a> 
+    certifications:
+      <a href="pdf/data science.pdf">Data Science</a> 
+      <a href="pdf/data science.pdf">Data Science</a> 
+      <a href="pdf/data science.pdf">Data Science</a> 
     
-  education:
-    - "Bachelor of Technology in Computer Science - XYZ University"
-    - "Master's in Data Science - ABC University"
+    education:
+      - "Bachelor of Technology in Computer Science - XYZ University"
+      - "Master's in Data Science - ABC University"
 
-  experience:
-    - "Software Engineer at Company A (2020-2022)"
-    - "Data Scientist at Company B (2022-Present)"
+    experience:
+      - "Software Engineer at Company A (2020-2022)"
+      - "Data Scientist at Company B (2022-Present)"
   </p>
 
 theme: jekyll-theme-minimal
