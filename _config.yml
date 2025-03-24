@@ -16,8 +16,9 @@ description: |
 
 subtitle:
   certifications:
-    - '<a href="pdf/data-science.pdf" target="_blank">Data Science Certification</a>'
-    - '<a href="pdf/machine-learning.pdf" target="_blank">Machine Learning Certification</a>'
+    <a href="pdf/data-science.pdf" target="_blank">Data Science Certification</a>
+    <a href="pdf/machine-learning.pdf" target="_blank">Machine Learning Certification</a>
+    <a href="pdf/resume.pdf" target="_blank">Resume</a> |
 
     
 theme: jekyll-theme-minimal
