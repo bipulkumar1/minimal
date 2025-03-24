@@ -9,9 +9,9 @@ permalink: /certifications.html
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; justify-content: center; align-items: center; padding: 20px;">
 
   <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="/assets/img/ds_logo.jpg" width="100" alt="Data Science Certification">
+    <img src="/assets/img/ds.png" width="100" alt="Data Science Certification">
     <h3>Data Science Certification</h3>
-    <p><small>Issued by: Coursera</small></p>
+    <p><small>Issued by: IIIT-Bangalore</small></p>
     <p><small>Certificate ID: DS12345</small></p>
     <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
   </div>
