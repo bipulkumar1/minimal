@@ -15,9 +15,10 @@ description: |
   </br>
 
 subtitle:
-  Educations:
-    - B.Tech ECE
-    - MS Data Science
+  certifications:
+    - '<a href="pdf/data-science.pdf" target="_blank">Data Science Certification</a>'
+    - '<a href="pdf/machine-learning.pdf" target="_blank">Machine Learning Certification</a>'
+
     
 theme: jekyll-theme-minimal
 show_downloads: false
