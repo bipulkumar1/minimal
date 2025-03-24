@@ -14,20 +14,7 @@ description: |
   Currently working in the AdTech domain for 3 years.
   <br>
 
-subtitle:
-  certifications:
-    - name: "Data Science Certification"
-      link: "pdf/data_science.pdf"
-    - name: "Machine Learning Specialization"
-      link: "pdf/ml_specialization.pdf"
-
-  education:
-    - "Bachelor of Technology in Computer Science - XYZ University"
-    - "Master's in Data Science - ABC University"
-
-  experience:
-    - "Software Engineer at Company A (2020-2022)"
-    - "Data Scientist at Company B (2022-Present)"
+title: "<p align='center'> Experience </p>"
 
 theme: jekyll-theme-minimal
 show_downloads: false
