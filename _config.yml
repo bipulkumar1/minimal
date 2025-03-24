@@ -1,4 +1,4 @@
-title: <p align="center"> Vipul Singh </p>
+title: "<p align='center'> Vipul Singh </p>"
 logo: /assets/img/portfolio_pic.jpg
 
 description: |
@@ -8,17 +8,18 @@ description: |
   <a href="https://github.com/bipulkumar1">GitHub</a>
   </p>
   <br>   
-  I am working on Data Science, Big Data, Spark, Machine learning & NLP-related problems.
-  Also handling Big Data from real-time Ad call data.
+  I am working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handling real-time Big Data from Ad call data.
   Worked with IBM Research in the Big Data Analytics team.
-  Working in the AdTech domain for 3 years.
+  Currently working in the AdTech domain for 3 years.
   <br>
 
 subtitle:
   certifications:
-    - "Data Science (pdf/data_science.pdf)"
-    - "Machine Learning (pdf/machine_learning.pdf)"
-    - "Deep Learning (pdf/deep_learning.pdf)"
+    - name: "Data Science Certification"
+      link: "pdf/data_science.pdf"
+    - name: "Machine Learning Specialization"
+      link: "pdf/ml_specialization.pdf"
 
   education:
     - "Bachelor of Technology in Computer Science - XYZ University"
@@ -28,4 +29,5 @@ subtitle:
     - "Software Engineer at Company A (2020-2022)"
     - "Data Scientist at Company B (2022-Present)"
 
-theme: jekyll-theme-mini
+theme: jekyll-theme-minimal
+show_downloads: false
