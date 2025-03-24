@@ -14,10 +14,7 @@ description: |
   Working in the AdTech domain for 3 years.
   </br>
 
-subtitle:
-  certifications:
-    <a href="pdf/data-science.pdf" target="_blank">Data Science Certification</a>
-    <a href="pdf/machine-learning.pdf" target="_blank">Machine Learning Certification</a>
-
+subtitle: "<p align = 'center'> certifications </p>
+    
 theme: jekyll-theme-minimal
 show_downloads: false
