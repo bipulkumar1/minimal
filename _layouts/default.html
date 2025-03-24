@@ -43,6 +43,30 @@
 
       {{ content }}
 
+        <!-- Add Certifications -->
+  <h2>Certifications</h2>
+  <ul>
+    {% for cert in site.subtitle.certifications %}
+      <li>{{ cert }}</li>
+    {% endfor %}
+  </ul>
+
+  <!-- Add Education -->
+  <h2>Education</h2>
+  <ul>
+    {% for edu in site.subtitle.education %}
+      <li>{{ edu }}</li>
+    {% endfor %}
+  </ul>
+
+  <!-- Add Experience -->
+  <h2>Experience</h2>
+  <ul>
+    {% for exp in site.subtitle.experience %}
+      <li>{{ exp }}</li>
+    {% endfor %}
+  </ul>
+
       </section>
       <footer>
        <!-- {% if site.github.is_project_page %}
