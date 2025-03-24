@@ -16,9 +16,9 @@ description:
 
   subtitle:
   certifications:
-    - "AWS Certified Solutions Architect"
-    - "Google Professional Data Engineer"
-    - "Microsoft Azure Fundamentals"
+    <a href="pdf/data science.pdf">Data Science</a> 
+    <a href="pdf/data science.pdf">Data Science</a> 
+    <a href="pdf/data science.pdf">Data Science</a> 
     
   education:
     - "Bachelor of Technology in Computer Science - XYZ University"
