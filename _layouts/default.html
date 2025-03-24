@@ -38,15 +38,15 @@
           <li><a href="{{ site.github.repository_url }}" target="_blank" rel="noopener noreferrer">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-        <!-- Certifications Section -->
         {% if site.subtitle.certifications %}
         <h2>Certifications</h2>
         <ul class="certifications">
           {% for cert in site.subtitle.certifications %}
-            <li><a href="{{ cert.link }}" target="_blank" rel="noopener noreferrer">{{ cert.name }}</a></li>
+              <li>{{ cert }}</li>
           {% endfor %}
         </ul>
         {% endif %}
+
        
       </header>
       <section>
