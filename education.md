@@ -10,18 +10,18 @@ permalink: /education.html
 
   <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
     <img src="{{ "/assets/img/university1.jpg" | relative_url }}" width="100" alt="University Logo">
-    <h3>Bachelor of Technology in Computer Science</h3>
-    <p><small>University Name: XYZ University</small></p>
-    <p><small>Year of Graduation: 2015</small></p>
-    <a href="pdf/degree-btech.pdf" target="_blank">View Degree (PDF)</a>
+    <h3>Bachelor of Technology in Electronics</h3>
+    <p><small>Institution: XYZ University</small></p>
+    <p><small>Year: 2014 - 2018</small></p>
+    <p><small>Location: Bangalore, India</small></p>
   </div>
 
   <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
     <img src="{{ "/assets/img/university2.jpg" | relative_url }}" width="100" alt="University Logo">
-    <h3>Master of Science in Data Science</h3>
-    <p><small>University Name: ABC University</small></p>
-    <p><small>Year of Graduation: 2018</small></p>
-    <a href="pdf/degree-msc.pdf" target="_blank">View Degree (PDF)</a>
+    <h3>Master of Science in Embedded Systems</h3>
+    <p><small>Institution: ABC Institute of Technology</small></p>
+    <p><small>Year: 2018 - 2020</small></p>
+    <p><small>Location: Pune, India</small></p>
   </div>
 
 </div>
