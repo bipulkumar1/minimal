@@ -14,7 +14,10 @@ description: |
   Working in the AdTech domain for 3 years.
   </br>
 
-subtitle: "<p align = 'center'> certifications </p>
+subtitle:
+  Educations:
+    - B.Tech ECE
+    - MS Data Science
     
 theme: jekyll-theme-minimal
 show_downloads: false
