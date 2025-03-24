@@ -4,6 +4,9 @@ logo: /assets/img/portfolio_pic.jpg
 description: |
   <p align="center">
   <a href="pdf/resume.pdf" target="_blank">Resume</a> |
+  <a href="certifications.html" target="_blank">Certifications</a> |
+  <a href="education.html" target="_blank">Education</a> |
+  <a href="experience.html" target="_blank">Experience</a> |
   <a href="https://www.linkedin.com/in/vipul-singh09/" target="_blank">LinkedIn</a> |
   <a href="https://github.com/bipulkumar1" target="_blank">GitHub</a>
   </p>
@@ -14,12 +17,5 @@ description: |
   Working in the AdTech domain for 3 years.
   </br>
 
-subtitle:
-  certifications:
-    <a href="pdf/data-science.pdf" target="_blank">Data Science Certification</a>
-    <a href="pdf/machine-learning.pdf" target="_blank">Machine Learning Certification</a>
-   
-
-    
 theme: jekyll-theme-minimal
 show_downloads: false
