@@ -1,5 +1,6 @@
 # Data Science Projects
 ### AI | ML | Deep Learning | GAN | Image Processing | NLP | EDGE-AI
+**------------------------------------------------------------------**
 ---
 ## Style Transfer Using GAN
 ### GAN 
