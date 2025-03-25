@@ -42,7 +42,7 @@ permalink: /experience.html
   
   <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
     <img src="{{ "/assets/img/company1.jpg" | relative_url }}" width="100" alt="Company Logo">
-    <h3>Senior Product Owner</h3>
+    <h3>Founder</h3>
     <p><small>Company: Aaisha Engineering Pvt Ltd</small></p>
     <p><small>Duration: Dec 2013 - March 2027</small></p>
     <p><small>Location: New Delhi, India</small></p>
