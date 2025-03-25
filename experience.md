@@ -44,7 +44,7 @@ permalink: /experience.html
     <img src="{{ "/assets/img/company1.jpg" | relative_url }}" width="100" alt="Company Logo">
     <h3>Founder</h3>
     <p><small>Company: Aaisha Engineering Pvt Ltd</small></p>
-    <p><small>Duration: Dec 2013 - March 2027</small></p>
+    <p><small>Duration: Dec 2013 - March 2017</small></p>
     <p><small>Location: New Delhi, India</small></p>
   </div>
 
