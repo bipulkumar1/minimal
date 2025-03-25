@@ -9,7 +9,7 @@ permalink: /education.html
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; justify-content: center; align-items: center; padding: 20px;">
 
   <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="{{ "/assets/img/ljmu.jpg" | relative_url }}" width="100" alt="XYZ University Logo">
+    <img src="{{ "/assets/img/Liverpool John Moores University.jpg" | relative_url }}" width="100" alt="XYZ University Logo">
     <h3>Master of Science in Data Science</h3>
     <p><small>Institution: liverpool John Moores University</small></p>
     <p><small>Year: 2022 - 2024</small></p>
