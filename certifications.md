@@ -16,11 +16,38 @@ permalink: /certifications.html
   </div>
 
   <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="{{ "/assets/img/ml.jpg" | relative_url }}" width="100" alt="Machine Learning Certification">
-    <h3>Machine Learning Certification</h3>
-    <p><small>Issued by: Stanford University</small></p>
-    <p><small>Certificate ID: ML67890</small></p>
-    <a href="pdf/machine-learning.pdf" target="_blank">View Certification (PDF)</a>
+    <img src="{{ "/assets/img/PMI.jpg" | relative_url }}" width="100" alt="Customer Development Certificate">
+    <h3>•	Customer Development Certification</h3>
+    <p><small>Issued by: Project Management Institute</small></p>
+    <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
+  </div>
+
+  <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
+    <img src="{{ "/assets/img/IIBA.jpg" | relative_url }}" width="100" alt="Customer Development Certificate">
+    <h3>•	Customer Development Certification</h3>
+    <p><small>Issued by: International Institute of Business analysis</small></p>
+    <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
+  </div>
+
+  <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
+    <img src="{{ "/assets/img/in_learning.jpg" | relative_url }}" width="100" alt="Aha! Product Management Professional Certificate">
+    <h3>Aha! Product Management Professional Certification</h3>
+    <p><small>Issued by: LinkedIn Learning</small></p>
+    <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
+  </div>
+
+  <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
+    <img src="{{ "/assets/img/in_learning.jpg" | relative_url }}" width="100" alt="Aha! Product Management Professional Certificate">
+    <h3>Aha! Product Management Professional Certification</h3>
+    <p><small>Issued by: LinkedIn Learning</small></p>
+    <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
+  </div>
+
+  <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
+    <img src="{{ "/assets/img/in_learning.jpg" | relative_url }}" width="100" alt="Aha! Product Management Professional Certificate">
+    <h3>Aha! Product Management Professional Certification</h3>
+    <p><small>Issued by: LinkedIn Learning</small></p>
+    <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
   </div>
 
 </div>
