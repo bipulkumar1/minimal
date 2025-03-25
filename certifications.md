@@ -62,7 +62,7 @@ permalink: /certifications.html
     <img src="{{ "/assets/img/IIIT-B.jpg" | relative_url }}" width="100" alt="•	Executive PG in Data Science Certificate">
     <h3>Executive PG in Data Science</h3>
     <p><small>Issued by: International Institute of Information Technology Bangalore</small></p>
-    <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
+    <a href="/assets/img/IIBA.jpg" target="_blank">View Certification</a>
   </div>
 
 </div>
