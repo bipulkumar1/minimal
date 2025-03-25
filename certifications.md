@@ -33,7 +33,7 @@ permalink: /certifications.html
     <img src="{{ "/assets/img/IIIT-B.jpg" | relative_url }}" width="100" alt="Executive PG in Data Science Certificate">
     <h3>Executive PG in Data Science</h3>
     <p><small>Issued by: International Institute of Information Technology Bangalore</small></p>
-    <a href="{{ "/assets/img/IIITB_DS_C.jpg" | relative_url }}" target="_blank">View Certification</a>
+    <a href="{{ "/assets/img/IITB_DS_C.jpg" | relative_url }}" target="_blank">View Certification</a>
   </div>
   
   <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
