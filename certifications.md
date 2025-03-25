@@ -12,57 +12,28 @@ permalink: /certifications.html
     <img src="{{ "/assets/img/in_learning.jpg" | relative_url }}" width="100" alt="Aha! Product Management Professional Certificate">
     <h3>Aha! Product Management Professional Certification</h3>
     <p><small>Issued by: LinkedIn Learning</small></p>
-    <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
+    <a href="{{ "/assets/img/in_learning.jpg" | relative_url }}" target="_blank">View Certification</a>
   </div>
 
   <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
     <img src="{{ "/assets/img/PMI.jpg" | relative_url }}" width="100" alt="Customer Development Certificate">
     <h3>Customer Development Certification</h3>
     <p><small>Issued by: Project Management Institute</small></p>
-    <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
+    <a href="{{ "/assets/img/PMI.jpg" | relative_url }}" target="_blank">View Certification</a>
   </div>
 
   <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
     <img src="{{ "/assets/img/IIBA.jpg" | relative_url }}" width="100" alt="Customer Development Certificate">
     <h3>Customer Development Certification</h3>
-    <p><small>Issued by: International Institute of Business analysis</small></p>
-    <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
-  </div>
-
-  
-  <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="{{ "/assets/img/PMI.jpg" | relative_url }}" width="100" alt="Building a Product Roadmap Certificate">
-    <h3>Building a Product Roadmap Certification</h3>
-    <p><small>Issued by: Project Management Institute</small></p>
-    <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
+    <p><small>Issued by: International Institute of Business Analysis</small></p>
+    <a href="{{ "/assets/img/IIBA.jpg" | relative_url }}" target="_blank">View Certification</a>
   </div>
 
   <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="{{ "/assets/img/PMI.jpg" | relative_url }}" width="100" alt="Building a Product Strategy Certificate">
-    <h3>Building a Product Strategy Certification</h3>
-    <p><small>Issued by: Project Management Institute</small></p>
-    <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
-  </div>
-
-  <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="{{ "/assets/img/PMI.jpg" | relative_url }}" width="100" alt="Technical Product Management Certificate">
-    <h3>Technical Product Management Certification</h3>
-    <p><small>Issued by: Project Management Institute</small></p>
-    <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
-  </div>
-
-  <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="{{ "/assets/img/IIBA.jpg" | relative_url }}" width="100" alt="Technical Product Management Certificate">
-    <h3>Technical Product Management Certification</h3>
-    <p><small>Issued by: International Institute of Business analysis</small></p>
-    <a href="pdf/data-science.pdf" target="_blank">View Certification (PDF)</a>
-  </div>
-
-  <div style="text-align: center; border: 1px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="{{ "/assets/img/IIIT-B.jpg" | relative_url }}" width="100" alt="•	Executive PG in Data Science Certificate">
+    <img src="{{ "/assets/img/IIIT-B.jpg" | relative_url }}" width="100" alt="Executive PG in Data Science Certificate">
     <h3>Executive PG in Data Science</h3>
     <p><small>Issued by: International Institute of Information Technology Bangalore</small></p>
-    <a href="/assets/img/IIBA.jpg" target="_blank">View Certification</a>
+    <a href="{{ "/assets/img/IIIT-B.jpg" | relative_url }}" target="_blank">View Certification</a>
   </div>
 
 </div>
